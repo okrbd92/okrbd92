@@ -1,6 +1,6 @@
 **Network Engineering**| **Computer Science**| **Data Analytics**|  **DevOps**
 
-Oskar holds a Master of Science in Computer Science from the University of Massachusetts Lowell, having completed his studies. He also possesses a Bachelor of Science in Networks and Communications Engineering from La Universidad Tecnológica Del Centro in Guacara, Venezuela. His professional background includes extensive experience in technical support for network infrastructure and hardware maintenance.
+Oskar holds a Master of Science in Computer Science from the University of Massachusetts Lowell, where he acquired skills in data analytics and DevOps, having completed his studies. He also possesses a Bachelor of Science in Networks and Communications Engineering from La Universidad Tecnológica Del Centro in Guacara, Venezuela, where he gained extensive experience in technical support for network infrastructure and hardware maintenance.
 
 ### Skills & Competencies:
 
