@@ -10,7 +10,7 @@ Oskar holds a Master of Science in Computer Science from the University of Massa
 ### Skills & Competencies:
 
 - ![Network Engineering](https://img.icons8.com/fluency/48/000000/network.png) **Network Engineering**
-- ![Machine Learning](https://img.icons8.com/fluency/48/000000/machine-learning.png) **Machine Learning**
+- ![Machine Learning](https://img.icons8.com/ios-filled/50/228BE6/machine-learning.png) **Machine Learning**
 - ![Artificial Intelligence](https://img.icons8.com/fluency/48/000000/artificial-intelligence.png) **Artificial Intelligence**
 - ![Deep Learning](https://img.icons8.com/fluency/48/000000/brain.png) **Deep Learning**
 - ![Network Security](https://img.icons8.com/fluency/48/000000/lock.png) **Network Security**
@@ -26,7 +26,7 @@ Oskar holds a Master of Science in Computer Science from the University of Massa
 
 #### Tools:
 - ![Power BI](https://img.icons8.com/color/48/000000/power-bi.png) Power BI
-- ![SQL](https://img.icons8.com/fluency/48/000000/sql.png) SQL (Structured Query Language)
+- ![SQL](https://img.icons8.com/ios-filled/50/228BE6/sql.png) SQL (Structured Query Language)
 
 #### Languages:
 - ![English](https://img.icons8.com/ios-filled/50/228BE6/usa.png) English (Bilingual)
