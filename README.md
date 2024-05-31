@@ -18,7 +18,7 @@ Oskar is currently pursuing a Master of Science in Computer Science at the Unive
 - ![C](https://img.icons8.com/color/50/000000/c-programming.png) C
 #### Data Structures & Algorithms:
 - ![Data Structures](https://img.icons8.com/ios-filled/50/228BE6/flow-chart.png) Data Structures
-- ![Algorithms](https://img.icons8.com/ios/50/228BE6/algorithm.png) Algorithms
+- ![Algorithms](https://img.icons8.com/ios-filled/50/228BE6/settings-3.png) Algorithms
 
 #### Tools:
 - ![Power BI](https://img.icons8.com/color/50/000000/power-bi.png) Power BI
