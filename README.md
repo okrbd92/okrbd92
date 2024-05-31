@@ -13,7 +13,7 @@ Oskar holds a Master of Science in Computer Science from the University of Massa
 - ![Data Structures](https://img.icons8.com/fluency/48/000000/flow-chart.png) Data Structures, ![Algorithms](https://img.icons8.com/fluency/48/000000/settings-3.png) Algorithms
 
 #### Tools:
-- ![Power BI](https://img.icons8.com/color/48/000000/power-bi.png) Power BI, ![SQL](https://img.icons8.com/ios-filled/50/228BE6/sql.png) SQL (Structured Query Language)
+- ![Power BI](https://img.icons8.com/color/48/000000/power-bi.png) Power BI, ![SQL](https://img.icons8.com/ios-filled/50/228BE6/sql.png) SQL (Structured Query Language), ![Tableau](https://img.icons8.com/color/48/000000/tableau-software.png)
 
 #### Languages:
 - ![English](https://img.icons8.com/ios-filled/50/228BE6/usa.png) English (Bilingual), ![Spanish](https://img.icons8.com/color/48/000000/spain.png) Spanish (Bilingual)
