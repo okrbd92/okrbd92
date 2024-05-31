@@ -31,7 +31,7 @@ Oskar holds a Master of Science in Computer Science from the University of Massa
 #### Languages:
 - ![English](https://img.icons8.com/ios-filled/50/228BE6/usa.png) English (Bilingual)
 - ![Spanish](https://img.icons8.com/color/48/000000/spain.png) Spanish (Bilingual)
-- ![United States Flag](https://img.icons8.com/ios-filled/50/228BE6/usa.png)
+
 
 
 <!--
