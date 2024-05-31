@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+### Network Engineering/Computer Science/ Data Analytics/ Devops
+
 <!--
 **okrbd92/okrbd92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
