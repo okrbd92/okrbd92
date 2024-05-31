@@ -16,8 +16,7 @@ Oskar holds a Master of Science in Computer Science from the University of Massa
 - ![C](https://img.icons8.com/color/50/000000/c-programming.png) C
 
 #### Data Structures & Algorithms:
-- ![Data Structures](https://img.icons8.com/fluency/48/000000/flow-chart.png) Data Structures
-- ![Algorithms](https://img.icons8.com/fluency/48/000000/settings-3.png) Algorithms
+- ![Data Structures](https://img.icons8.com/fluency/48/000000/flow-chart.png) Data Structures, - ![Algorithms](https://img.icons8.com/fluency/48/000000/settings-3.png) Algorithms
 
 #### Tools:
 - ![Power BI](https://img.icons8.com/color/48/000000/power-bi.png) Power BI
