@@ -7,7 +7,7 @@ Oskar holds a Master of Science in Computer Science from the University of Massa
 - ![Network Engineering](https://img.icons8.com/fluency/48/000000/network.png) **Network Engineering**, ![Machine Learning](https://img.icons8.com/ios-filled/50/228BE6/machine-learning.png) **Machine Learning**, ![Artificial Intelligence](https://img.icons8.com/fluency/48/000000/artificial-intelligence.png) **Artificial Intelligence**, ![Deep Learning](https://img.icons8.com/fluency/48/000000/brain.png) **Deep Learning**, ![Network Security](https://img.icons8.com/fluency/48/000000/lock.png) **Network Security**, ![Data Mining](https://img.icons8.com/fluency/48/000000/data-in-both-directions.png) **Data Mining**
 
 #### Programming Languages:
-- ![Python](https://img.icons8.com/ios-filled/50/228BE6/python.png), ![C](https://img.icons8.com/color/50/000000/c-programming.png), ![R Programming](https://img.icons8.com/color/50/000000/r.png)
+- ![Python](https://img.icons8.com/ios-filled/50/228BE6/python.png) ![C](https://img.icons8.com/color/50/000000/c-programming.png) ![R Programming](https://img.icons8.com/color/50/000000/r.png)
 
 #### Data Structures & Algorithms:
 - ![Data Structures](https://img.icons8.com/fluency/48/000000/flow-chart.png) Data Structures, ![Algorithms](https://img.icons8.com/fluency/48/000000/settings-3.png) Algorithms
