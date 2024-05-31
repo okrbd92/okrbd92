@@ -4,27 +4,19 @@ Oskar holds a Master of Science in Computer Science from the University of Massa
 
 ### Skills & Competencies:
 
-- ![Network Engineering](https://img.icons8.com/fluency/48/000000/network.png) **Network Engineering**
-- ![Machine Learning](https://img.icons8.com/ios-filled/50/228BE6/machine-learning.png) **Machine Learning**
-- ![Artificial Intelligence](https://img.icons8.com/fluency/48/000000/artificial-intelligence.png) **Artificial Intelligence**
-- ![Deep Learning](https://img.icons8.com/fluency/48/000000/brain.png) **Deep Learning**
-- ![Network Security](https://img.icons8.com/fluency/48/000000/lock.png) **Network Security**
-- ![Data Mining](https://img.icons8.com/fluency/48/000000/data-in-both-directions.png) **Data Mining**
+- ![Network Engineering](https://img.icons8.com/fluency/48/000000/network.png) **Network Engineering**, ![Machine Learning](https://img.icons8.com/ios-filled/50/228BE6/machine-learning.png) **Machine Learning**, ![Artificial Intelligence](https://img.icons8.com/fluency/48/000000/artificial-intelligence.png) **Artificial Intelligence**, ![Deep Learning](https://img.icons8.com/fluency/48/000000/brain.png) **Deep Learning**, ![Network Security](https://img.icons8.com/fluency/48/000000/lock.png) **Network Security**, ![Data Mining](https://img.icons8.com/fluency/48/000000/data-in-both-directions.png) **Data Mining**
 
 #### Programming Languages:
-- ![Python](https://img.icons8.com/ios-filled/50/228BE6/python.png) Python
-- ![C](https://img.icons8.com/color/50/000000/c-programming.png) C
+- ![Python](https://img.icons8.com/ios-filled/50/228BE6/python.png) Python, ![C](https://img.icons8.com/color/50/000000/c-programming.png) C
 
 #### Data Structures & Algorithms:
-- ![Data Structures](https://img.icons8.com/fluency/48/000000/flow-chart.png) Data Structures, - ![Algorithms](https://img.icons8.com/fluency/48/000000/settings-3.png) Algorithms
+- ![Data Structures](https://img.icons8.com/fluency/48/000000/flow-chart.png) Data Structures, ![Algorithms](https://img.icons8.com/fluency/48/000000/settings-3.png) Algorithms
 
 #### Tools:
-- ![Power BI](https://img.icons8.com/color/48/000000/power-bi.png) Power BI
-- ![SQL](https://img.icons8.com/ios-filled/50/228BE6/sql.png) SQL (Structured Query Language)
+- ![Power BI](https://img.icons8.com/color/48/000000/power-bi.png) Power BI, ![SQL](https://img.icons8.com/ios-filled/50/228BE6/sql.png) SQL (Structured Query Language)
 
 #### Languages:
-- ![English](https://img.icons8.com/ios-filled/50/228BE6/usa.png) English (Bilingual)
-- ![Spanish](https://img.icons8.com/color/48/000000/spain.png) Spanish (Bilingual)
+- ![English](https://img.icons8.com/ios-filled/50/228BE6/usa.png) English (Bilingual), ![Spanish](https://img.icons8.com/color/48/000000/spain.png) Spanish (Bilingual)
 
 
 
