@@ -15,8 +15,7 @@ Oskar is currently pursuing a Master of Science in Computer Science at the Unive
 
 #### Programming Languages:
 - ![Python](https://img.icons8.com/ios-filled/50/228BE6/python.png) Python
-- ![C](https://img.icons8.com/ios-filled/50/228BE6/c-programming.png) C
-
+- ![C](https://img.icons8.com/color/50/000000/c-programming.png) C
 #### Data Structures & Algorithms:
 - ![Data Structures](https://img.icons8.com/ios-filled/50/228BE6/flow-chart.png) Data Structures
 - ![Algorithms](https://img.icons8.com/ios-filled/50/228BE6/algorithm.png) Algorithms
