@@ -4,7 +4,7 @@
 
 Oskar is currently pursuing a Master of Science in Computer Science at the University of Massachusetts Lowell. He holds a Bachelor of Science in Networks and Communications Engineering from La Universidad Tecnológica Del Centro in Guacara, Venezuela. His professional background includes extensive experience in technical support for network infrastructure and hardware maintenance.
 
-### Skills & Competencies:
+#### Skills & Competencies:
 
 - ![Network Engineering](https://img.icons8.com/ios-filled/50/000000/network.png) **Network Engineering**
 - ![Machine Learning](https://img.icons8.com/ios-filled/50/000000/machine-learning.png) **Machine Learning**
@@ -14,7 +14,7 @@ Oskar is currently pursuing a Master of Science in Computer Science at the Unive
 - ![Data Mining](https://img.icons8.com/ios-filled/50/000000/data-in-both-directions.png) **Data Mining**
 
 #### Programming Languages:
-- ![Python](https://img.icons8.com/ios-filled/50/000000/python.png) Python
+- ![Python](https://img.icons8.com/ios-filled/50/000000/python--v1.png) Python
 - ![C](https://img.icons8.com/ios-filled/50/000000/c-programming.png) C
 
 #### Data Structures & Algorithms:
@@ -27,7 +27,8 @@ Oskar is currently pursuing a Master of Science in Computer Science at the Unive
 
 #### Languages:
 - ![English](https://img.icons8.com/ios-filled/50/000000/usa.png) English (Bilingual)
-- ![Spanish](https://img.icons8.com/ios-filled/50/000000/spain.png) Spanish (Bilingual)
+- ![Spanish](https://img.icons8.com/ios-filled/50/000000/spain2.png) Spanish (Bilingual)
+
 
 <!--
 **okrbd92/okrbd92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
