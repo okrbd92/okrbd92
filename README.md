@@ -9,7 +9,7 @@ Oskar is currently pursuing a Master of Science in Computer Science at the Unive
 - ![Network Engineering](https://img.icons8.com/ios-filled/50/228BE6/network.png) **Network Engineering**
 - ![Machine Learning](https://img.icons8.com/ios-filled/50/228BE6/machine-learning.png) **Machine Learning**
 - ![Artificial Intelligence](https://img.icons8.com/ios-filled/50/228BE6/artificial-intelligence.png) **Artificial Intelligence**
-- ![Deep Learning](https://img.icons8.com/ios-filled/50/228BE6/deep-learning.png) **Deep Learning**
+- ![Deep Learning](https://img.icons8.com/ios-filled/50/228BE6/brain.png) **Deep Learning**
 - ![Network Security](https://img.icons8.com/ios-filled/50/228BE6/lock.png) **Network Security**
 - ![Data Mining](https://img.icons8.com/ios-filled/50/228BE6/data-in-both-directions.png) **Data Mining**
 
