@@ -26,7 +26,7 @@ Oskar is currently pursuing a Master of Science in Computer Science at the Unive
 
 #### Languages:
 - ![English](https://img.icons8.com/ios-filled/50/228BE6/usa.png) English (Bilingual)
-- ![Spanish](https://img.icons8.com/ios-filled/50/228BE6/spain.png) Spanish (Bilingual)
+- ![Spanish](https://img.icons8.com/color/50/000000/spain.png) Spanish (Bilingual)
 
 
 
