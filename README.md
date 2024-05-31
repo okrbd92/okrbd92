@@ -9,7 +9,7 @@ Oskar is currently pursuing a Master of Science in Computer Science at the Unive
 - ![Network Engineering](https://img.icons8.com/ios-filled/50/228BE6/network.png) **Network Engineering**
 - ![Machine Learning](https://img.icons8.com/ios-filled/50/228BE6/machine-learning.png) **Machine Learning**
 - ![Artificial Intelligence](https://img.icons8.com/ios-filled/50/228BE6/artificial-intelligence.png) **Artificial Intelligence**
-- ![Deep Learning](https://img.icons8.com/ios-filled/50/228BE6/neural-network.png) **Deep Learning**
+- ![Deep Learning](https://img.icons8.com/ios-filled/50/228BE6/deep-learning.png) **Deep Learning**
 - ![Network Security](https://img.icons8.com/ios-filled/50/228BE6/lock.png) **Network Security**
 - ![Data Mining](https://img.icons8.com/ios-filled/50/228BE6/data-in-both-directions.png) **Data Mining**
 
@@ -22,12 +22,13 @@ Oskar is currently pursuing a Master of Science in Computer Science at the Unive
 - ![Algorithms](https://img.icons8.com/ios-filled/50/228BE6/algorithm.png) Algorithms
 
 #### Tools:
-- ![Power BI](https://img.icons8.com/ios-filled/50/228BE6/bi.png) Power BI
+- ![Power BI](https://img.icons8.com/color/50/000000/power-bi.png) Power BI
 - ![SQL](https://img.icons8.com/ios-filled/50/228BE6/sql.png) SQL (Structured Query Language)
 
 #### Languages:
 - ![English](https://img.icons8.com/ios-filled/50/228BE6/usa.png) English (Bilingual)
-- ![Spanish](https://img.icons8.com/ios-filled/50/228BE6/spain2.png) Spanish (Bilingual)
+- ![Spanish](https://img.icons8.com/ios-filled/50/228BE6/spain.png) Spanish (Bilingual)
+
 
 
 <!--
