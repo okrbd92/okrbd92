@@ -1,9 +1,15 @@
-## Hi there 👋
 
 ### Network Engineering/Computer Science/ Data Analytics/ Devops
 
+
+Oskar is currently studying to obtain a Master's of Science in Computer Sciences at the University of Massachusetts Lowell in Massachusetts. He has a Bachelor of Science in Networks and Communications Engineering from La Universidad Tecnológica Del Centro (University Technology of Center) in Guacara, Venezuela. His professional experience ranges from providing technical support for the network area and maintenance of hardware equipment. 
+
+Skills & Competencies:
+Network Engineering, Machine Learning, Artificial Intelligence, Deep Learning, Network Security, Data Mining, Python (Programming Language), Cisco CCNA (Cisco Certified Network Associate), C (Programming Language),Power Bi,Structured query language (SQL), Bilingual in English & Spanish.
 <!--
 **okrbd92/okrbd92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
