@@ -1,8 +1,11 @@
 
-### **Network Engineering/Computer Science/ Data Analytics/ Devops**
+### - ![Network Engineering](https://img.icons8.com/ios-filled/50/228BE6/network.png) **Network Engineering**
+- ![Computer Science](https://img.icons8.com/ios-filled/50/228BE6/computer.png) **Computer Science**
+- ![Data Analytics](https://img.icons8.com/ios-filled/50/228BE6/data-configuration.png) **Data Analytics**
+- ![DevOps](https://img.icons8.com/ios-filled/50/228BE6/devops.png) **DevOps**
 
 
-Oskar is currently pursuing a Master of Science in Computer Science at the University of Massachusetts Lowell. He holds a Bachelor of Science in Networks and Communications Engineering from La Universidad Tecnológica Del Centro in Guacara, Venezuela. His professional background includes extensive experience in technical support for network infrastructure and hardware maintenance.
+Oskar holds a Master of Science in Computer Science from the University of Massachusetts Lowell, having completed his studies. He also possesses a Bachelor of Science in Networks and Communications Engineering from La Universidad Tecnológica Del Centro in Guacara, Venezuela. His professional background includes extensive experience in technical support for network infrastructure and hardware maintenance.
 
 ### Skills & Competencies:
 
