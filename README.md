@@ -9,13 +9,10 @@ Oskar holds a Master of Science in Computer Science from the University of Massa
 - ![Machine Learning](https://img.icons8.com/ios-filled/50/228BE6/machine-learning.png) Machine Learning
 - ![Artificial Intelligence](https://img.icons8.com/fluency/48/000000/artificial-intelligence.png) Artificial Intelligence
 - ![Deep Learning](https://img.icons8.com/fluency/48/000000/brain.png) Deep Learning
-- ![Network Security](https://img.icons8.com/fluency/48/000000/lock.png) Network Security
-- ![Data Mining](https://img.icons8.com/fluency/48/000000/data-in-both-directions.png) Data Mining
 
 #### Programming Languages:
 - ![Python](https://img.icons8.com/ios-filled/50/228BE6/python.png) Python
 - ![C](https://img.icons8.com/color/50/000000/c-programming.png) C
-- ![R Programming](https://img.icons8.com/color/50/000000/r.png) R Programming
 
 #### Data Structures & Algorithms:
 - ![Data Structures](https://img.icons8.com/fluency/48/000000/flow-chart.png) Data Structures
@@ -25,7 +22,6 @@ Oskar holds a Master of Science in Computer Science from the University of Massa
 - ![Power BI](https://img.icons8.com/color/48/000000/power-bi.png) Power BI
 - ![SQL](https://img.icons8.com/ios-filled/50/228BE6/sql.png) SQL (Structured Query Language)
 - ![Tableau](https://img.icons8.com/color/48/000000/tableau-software.png) Tableau
-- ![Docker](https://img.icons8.com/color/48/000000/docker.png) Docker
 - ![Git](https://img.icons8.com/color/48/000000/git.png) Git
 
 #### Languages:
